@@ -11,4 +11,5 @@ This project contains all my activities related to DATA 1301: Intro to Data Scie
 **Level:** undergraduate - Junior (3rd year)  
 **Position Title:** Student  
 **Course Webpage:** https://www.cdslab.org/IDS2024F/   
-**Photo:**
+**Photo:**  
+![Portiait of blank](https://www.cdslab.org/recipes/programming/vcs-using-git-github/AmirShahmoradi.png)
