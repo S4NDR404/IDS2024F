@@ -1,4 +1,4 @@
-# IDS2024F - Inotroduction ot Data Science (Fall 2024)
+# IDS2024F - Introduction to Data Science (Fall 2024)
 DATA1301: Introduction to Data Science 2024 Fall  
 This project contains all my activities related to DATA 1301: Intro to Data Science  
 ---
