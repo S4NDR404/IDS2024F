@@ -18,11 +18,11 @@ This project contains all my activities related to DATA 1301: Intro to Data Scie
 This repository contains my homework, quizzes, and every effort I have made for DATA1301.  
 The structure of the project is the following:
 
-+  [Homework:](./homework) This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
++  [Homework](./homework): This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
-+  [Quiz:](./quiz) This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
++  [Quiz](./quiz): This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
 
-+  [Exam:](./exam) This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
++  [Exam](./exam): This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
 For questions and troubleshooting, please contact:
 
