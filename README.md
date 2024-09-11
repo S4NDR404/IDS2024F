@@ -15,17 +15,14 @@ This project contains all my activities related to DATA 1301: Intro to Data Scie
 ![Portiait of blank](https://www.cdslab.org/recipes/programming/vcs-using-git-github/AmirShahmoradi.png)  
 ## Description of the project’s content  
 ---  
-This repository contains my homework, quizzes, and virtually every effort that I have made for DATA1301.  
+This repository contains my homework, quizzes, and every effort I have made for DATA1301.  
 The structure of the project is the following:
 
-+  Homework: (the homework hyperlink should take the reader to the homework folder)  
-This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
++  [Homework:](./homework) This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
-+  Quiz: (the quiz hyperlink should take the reader to the quizzes folder)  
-This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
++  [Quiz:](./quiz) This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
 
-+  Exam: (the exam hyperlink should take the reader to the exams folder)  
-This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
++  [Exam:](./exam) This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
 For questions and troubleshooting, please contact:
 
