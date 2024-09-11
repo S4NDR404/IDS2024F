@@ -3,5 +3,5 @@
 3. q  
 4. q  
 5. q  
-6. [hw](./../../homework) [quiz](./../../quiz) [exam]()  
+6. [hw](./../../homework) [quiz](./../../quiz) [exam](./../../exam)  
 7. q  
