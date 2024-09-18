@@ -29,7 +29,16 @@
 19. You make italics with *asterisks* or _underscores_.  
 20. git init
 21. They help you refer to a file in a folder or return to other folders like a chain.  
-22. 
+22. a. sandracalderon@Sandras-Air ~ % pwd  
+/Users/sandracalderon  
+sandracalderon@Sandras-Air ~ %
+    b. sandracalderon@Sandras-Air ~ % mkdir testdir  
+sandracalderon@Sandras-Air ~ % cd testdir  
+sandracalderon@Sandras-Air testdir %
+    c. sandracalderon@Sandras-Air testdir % cat README.md
+This is a README.md file for the test git project of quiz1.
+sandracalderon@Sandras-Air testdir % 
+
 23. Mechanical, Finance, Electrical, Physics.  
 24. Computer, Optimization, Simulations, Bayesian.  
 25. Experiment, Theory, Computation+Data.  
