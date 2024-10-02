@@ -1,4 +1,4 @@
-1. [Chart](./Data1301_LangChart.pdf).
+1. [Chart](./Data1301_LangChart.pdf).  
    a. FORTRAN - 1954  
    b. Algol 58 - 1958  
    c. lisp - 1958  
