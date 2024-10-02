@@ -24,7 +24,7 @@
 10. C was created in the 1970s, C++ in the 1980s, and MATLAB/Python in the 1990s.
 11. B programming language.
 12. C programming language.
-13. The ancestor of MATLAB is Fortran, and an ancestor of Python is ABC.
+13. The ancestor of MATLAB is Fortran, and the ancestor of Python is ABC.
 14. CPU.
 15. bit.
 16. Access to register memory is about 100 times faster than access to RAM.
@@ -36,4 +36,12 @@
 22. Yes, a powerful computer with more CPU cycles can be slower if other factors, like memory access, become bottlenecks.
 23. The bottleneck speed in modern computers is memory access because CPU speeds have outpaced memory speeds.
 24. Dennard scaling refers to scaling down transistors while maintaining performance efficiency, MOSFET scaling is the physical shrinking of transistors, and Moore's law predicts the doubling of transistor density approximately every two years.  
-25. 
+25. a. 64.
+    b. 2080.
+    c. 0.297 pounds.
+26. a. 9,223,372,036,854,775,808 grains.  
+    b. 18,446,744,073,709,551,615 grains.
+    c. 2.6352 trillion pounds of rice.
+    d. 1318 years.
+27. Conditional branching (if-then-else), recursion, Memory manipulation (read/write).
+28. Exponential behavior appears as a straight line on a log-linear plot while Power-law behavior appears as a straight line on a log-log plot.  
