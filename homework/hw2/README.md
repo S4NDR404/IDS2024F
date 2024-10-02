@@ -1,4 +1,5 @@
-1. [Chart](./Data1301_LangChart.pdf).  a. FORTRAN - 1954  
+1. [Chart](./Data1301_LangChart.pdf).
+   a. FORTRAN - 1954  
    b. Algol 58 - 1958  
    c. lisp - 1958  
    d. basic - 1964  
@@ -20,7 +21,7 @@
 8. a. Fortran.
    b. about seven decades old (created in the 1950s).
 9. a. Assembly.
-   b. Fortran, C, C++, MATLAB, Python, and R.
+    b. Fortran, C, C++, MATLAB, Python, and R.
 10. C was created in the 1970s, C++ in the 1980s, and MATLAB/Python in the 1990s.
 11. B programming language.
 12. C programming language.
