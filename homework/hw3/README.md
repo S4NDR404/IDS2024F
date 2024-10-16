@@ -6,9 +6,9 @@
 6. A statement that can be either true or false.
 7. No, a proposition cannot be both true and false at the same time. Example: "The cat is on the mat." This statement cannot be both true and false under the same conditions.
 8. No, this is the fallacy of affirming the consequent. Example: "If it is raining, the ground will be wet. However, just because the ground is wet, it doesn’t mean it is necessarily raining; it could have been wet by a sprinkler."
-9. (A+B)[question9]  
-10. (A+B)[question10]  
-11. (A B)[question11]  
+9. (A+B)[question9.jpeg]  
+10. (A+B)[question10.jpeg]  
+11. (A B)[question11.jpeg]  
 12. Logical Implication (Not Physical Causation): If the grass is wet, it must have rained. However, the wet grass could also be due to a sprinkler system (B could occur without A).
 13. Propositions:  
     a. The man is wearing a mask.  
