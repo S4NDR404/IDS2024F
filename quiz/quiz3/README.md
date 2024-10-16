@@ -6,14 +6,14 @@
 6. Calibration is adjusting model parameters so that the model's output matches experimental data or known results. Validation is testing a calibrated model against new or independent data to ensure its predictions are accurate and reliable in real-world applications.  
 7. Logical implication is not the same as physical causation.
 Example: "If it rains, the streets are wet" is a logical implication. However, this does not mean the rain physically causes wet streets under all conditions.  
-8. George Boole (1854).
-9. [question9](question9.jpeg)
-10. [question10](question10.jpeg)
-11. The equal sign is used to denote equal truth value, which means, as usual, ‘equals by definition’.
-12. q
-13. q
-14. q
-15. Bit.
-16. q
+8. George Boole (1854).  
+9. [question9](question9.jpeg)  
+10. [question10](question10.jpeg)  
+11. The equal sign is used to denote equal truth value, which means, as usual, ‘equals by definition’.  
+12. Example: Either a statement is true or its complement (negation) is true.
+13. Example: A statement cannot be both true and false at the same time.  
+14. [question14](question14.jpeg)  
+15. Bit.  
+16. No it does not contain any information.
 17. 2^4 = 16 total possibilities.  
 18. q
