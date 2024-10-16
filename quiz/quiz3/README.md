@@ -16,4 +16,4 @@ Example: "If it rains, the streets are wet" is a logical implication. However, t
 15. Bit.  
 16. No it does not contain any information.
 17. 2^4 = 16 total possibilities.  
-18. q
+18. 3^4= 81
