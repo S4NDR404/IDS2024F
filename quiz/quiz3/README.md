@@ -9,4 +9,11 @@ Example: "If it rains, the streets are wet" is a logical implication. However, t
 8. George Boole (1854).
 9. [question9](question9.jpeg)
 10. [question10](question10.jpeg)
-11. q
+11. The equal sign is used to denote equal truth value, which means, as usual, ‘equals by definition’.
+12. q
+13. q
+14. q
+15. Bit.
+16. q
+17. 2^4 = 16 total possibilities.  
+18. q
