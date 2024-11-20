@@ -1,2 +1,2 @@
-1. [question1](question1.png)
+1. [question1](question1.jpeg)
 2. 
