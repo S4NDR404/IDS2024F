@@ -12,9 +12,11 @@
    e. **Temperature:** Type: Quantitative, Category: Numerical, Nature: Continuous  
 9. Geometric or Spatial Plots  
 10. Transforming axes to a logarithmic scale improves visualization when data spans multiple orders of magnitude, such as displaying population growth or income distributions.  
-11. All of them can be used but the red graph is ideal for plotting data.
+11. All of them can be used but the red graph is ideal for plotting data.  
 12. Sequential color scales are best for ordered data like temperature, diverging scales highlight deviations from a midpoint like profit, categorical scales distinguish discrete groups like political parties and cyclic scales represent periodic data like time of day.  
-13. the graph could've been a different type of graph so that it's easier to read and understand the data.
-14. the purple to green colors since many people are colorblind so its more accessible.
-15. [question15](question15.jpeg)
-16. 
+13. the graph could've been a different type of graph so that it's easier to read and understand the data.  
+14. the purple to green colors since many people are colorblind so its more accessible.  
+15. [question15](question15.jpeg)  
+16. Classical Probability, Bayesian Probability, Frequentist Probability, Propensity.
+17. 2: a frog and a horse
+18. 9 + 3 - 4 = 8  
