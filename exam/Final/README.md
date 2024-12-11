@@ -32,16 +32,16 @@
 19. Integers provide a straightforward representation for binary states, and other data types.
 20. B
 21. Fortran
-22. [question22](questions.jpeg)
-23. [question23](questions.jpeg)
+22. [question22](questions2.jpeg)
+23. [question23](questions2.jpeg)
 24. Deductive Reasoning: Derives specific conclusions from general premises. Example: "All humans are mortal. Socrates is human. Therefore, Socrates is mortal." Inductive Reasoning: Derives general conclusions from specific observations. Example: "Every swan I’ve seen is white. Therefore, all swans are white."
 25. they yield the same truth value for all possible combinations of their input variables. In other words, their truth tables are identical.
-26. [question26](questions.jpeg)
-27. [question27](questions.jpeg)
-28. [question28](questions.jpeg)
-29. [question29](questions.jpeg)
-30. [question30](questions.jpeg)
-31. [question31](questions.jpeg)
+26. [question26](questions2.jpeg)
+27. [question27](questions2.jpeg)
+28. [question28](questions2.jpeg)
+29. [question29](questions2.jpeg)
+30. [question30](questions2.jpeg)
+31. [question31](questions2.jpeg)
 32. The two fundamental uncertainties in nature are epistemic uncertainty caused by a lack of knowledge and reducible with better information, and aleatory uncertainty which is intrinsic and arises from inherent randomness in processes like quantum mechanics.
 
 
