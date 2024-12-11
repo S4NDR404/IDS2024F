@@ -7,17 +7,35 @@
    d. highlight specific elements in the data.  
 5. a. Valid, breathing inherently involves inhaling and exhaling.  
    b. Valid, "breathing" and "inhaling and exhaling" are interchangeable.  
-   c. INvalid, consciousness, and breathing are not logically equivalent, as one can breathe without being conscious.
-   d. Invalid, consciousness is not strictly equivalent to breathing. Consciousness requires brain activity, not just the act of breathing.
-   e. Invalid, rain implies clouds, but clouds do not always imply rain.
-   f. Invalid, rain does not guarantee the same conditions as cloudiness.
-6. Observation, Experimentation, Inference.
-7. No, Logical Implication: "If a fire alarm rings, people evacuate the building.", Physical Causation: "Smoke triggers the fire alarm."
+   c. INvalid, consciousness, and breathing are not logically equivalent, as one can breathe without being conscious.  
+   d. Invalid, consciousness is not strictly equivalent to breathing. Because consciousness requires brain activity, not just the act of breathing.  
+   e. Invalid, rain implies clouds, but clouds do not always imply rain.  
+   f. Invalid, rain does not guarantee the same conditions as cloudiness.  
+6. Experiment, Theory, Computation+Data.  
+7. No, Logical Implication: "If a fire alarm rings, people evacuate the building.", Physical Causation: "Smoke triggers the fire alarm."  
 8. a. No, because it's linear without using the data in the blue to make the line.  
    b. historical reconstructions from indirect evidence introduce high uncertainty due to the lack of direct temperature measurements.  
    c. Yes, because it represents temperature anomalies recorded over time and each data corresponds to a specific year.  
-   d. The rise is because increased industrial activity and greenhouse gas emissions during and after World War II. The decline is due to post-war industrial activities.
-9. 
+   d. The rise is because of increased industrial activity and greenhouse gas emissions during and after World War II. The decline is due to post-war industrial activities.  
+9. No, Representing probabilities with integer numbers would lose precision, as integers do not allow fractional values.  
+10. Degrees of plausibility are represented by real numbers, Qualitative correspondence with common sense, and Consistency.  
+11. a. 1 sub 10  
+    b. 1 sub 10  
+    c. 2 sub 10  
+12. No, Computers use floating-point numbers which can approximate real numbers but cannot represent all of them due to limited memory.
+13. [question13](question13.jpeg)
+14. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
