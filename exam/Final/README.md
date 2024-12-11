@@ -22,13 +22,14 @@
 11. a. 1 sub 10  
     b. 1 sub 10  
     c. 2 sub 10  
-12. No, Computers use floating-point numbers which can approximate real numbers but cannot represent all of them due to limited memory.
-13. [question13](question13.jpeg)
-14. 
-
-
-
-
+12. No, Computers use floating-point numbers which can approximate real numbers but cannot represent all of them due to limited memory.  
+13. [question13](question13.jpeg)  
+14. Git is a program that can be downloaded while GitHub is a web platform that's built on Git and making it easier to collaborate with others.  
+15. Bayesian School of Probability allows the incorporation of expert (prior) knowledge through the use of prior probabilities, which are updated with evidence using Bayes' theorem.  
+16. Bayesian school is most useful when data is scarce because it allows the incorporation of prior knowledge or beliefs to make inferences despite limited evidence.  
+17. Frequentist school cannot define or discuss the probability of the existence of God because it interprets probability as the long run relative frequency of an event, which requires multiple experiments. Since the existence of God is not a repeatable or testable phenomenon, the Frequentist framework cannot make a meaningful probability of it.  
+18. It's hard to understand the graph because the data isn't blocked off into specific age groups so it all kinda blends in together.
+19. 
 
 
 
